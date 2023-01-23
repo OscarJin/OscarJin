@@ -12,5 +12,4 @@
 ### Enjoy Coding
 
 
-
-[![Oscar Jin's GitHub stats](https://githubstats.ishs.gq/api?username=oscarjin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=OscarJin)![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarJin&layout=compact&langs_count=6)
