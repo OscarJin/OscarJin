@@ -3,7 +3,8 @@
 👉 Major in Mechanical Engineering
 
 👀 Current Research Topics:
-- Computational Design and Simulation of Robots
+- Computational design and simulation of tensegrity robots
+- Temperature monitoring in the process of additive manufacturing using GNN techniques
 
 ### Enjoy Coding
 
