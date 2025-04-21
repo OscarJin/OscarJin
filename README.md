@@ -7,8 +7,7 @@
 - Cross-domain bio-inspired aquatic robots.
 
 ### My Personal Website
-Welcome to visit my [personal website][blog]! I will occasionally post something about academic research and photography.
-
+Welcome to visit my [personal website][blog]! 
 
 ![](https://github-readme-stats.vercel.app/api?username=OscarJin)
 
