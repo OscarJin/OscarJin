@@ -3,7 +3,7 @@
 👉 Major in Mechanical Engineering
 
 👀 Current Research Topics:
-- Dynamics and CFD simulations of (robotic) fish with tunable stiffness.
+- Dynamics and CFD simulations of (robotic) fish with varying stiffness.
 - Cross-domain bio-inspired aquatic robots.
 
 ### My Personal Website
