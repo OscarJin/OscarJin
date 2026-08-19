@@ -9,10 +9,4 @@
 ### My Personal Website
 Welcome to visit my [personal website][blog]! 
 
-![](https://github-readme-stats.vercel.app/api?username=OscarJin)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarJin&layout=compact&langs_count=6)
-
-
 [blog]: https://oscarjin.github.io/
